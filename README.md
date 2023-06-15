@@ -27,10 +27,6 @@ Features:
 | :-------- | :------- | :------------------------- |
 | `message` | `string` | **Required**. Message to find context |
 
-
-## Demo
-![alt text](https://i.ibb.co/RDJKW84/scr.png)
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
